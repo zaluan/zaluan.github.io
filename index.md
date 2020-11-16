@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+#### 第一篇博客
 
-You can use the [editor on GitHub](https://github.com/zaluan/zaluan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+##### 目的
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+先占个地儿，想写博客的想法由来已久，但就是只有想法。虽然从2013年就开始写博客，但都是技术类，而且写的很浅薄，权当学习笔记。这次写就比较杂，想记录下自己的经历，给自个儿留个记录，可以的话，也给别人做个参考吧。
 
-### Markdown
+第一篇先占坑，就是想赶在2020年底前写一篇。我觉得博客，最重要的还是内容，也懒得自己整理服务器，所以就开到GitHub上，试试水，顺便熟悉下写博客的流程。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### 博客环境
 
-```markdown
-Syntax highlighted code block
+1. 服务器：自然就是GitHub了，后续想折腾的时候再改。
+2. 编辑器：用的是GitHub桌面版+Typora。
+3. 评论系统：待定。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zaluan/zaluan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+最后说下更新频率，这个就不一定了，虽然有写日记的习惯，也坚持有四五年了，但大部分是流水账。博客的内容就得谨慎点，不能满篇废话。行，先这样。
